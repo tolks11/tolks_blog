@@ -15,9 +15,9 @@ const ContactPage = ({
         <meta name="description" content={"Contact page of " + site.siteMetadata.description} />
       </Helmet>
       <div className="two-grids -contact">
-        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/alexander-andrews-HgUDpaGPTEA-unsplash.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch</h1>
-          <p>Let me help you  &rarr;</p>
+        <div className="post-thumbnail" style={{backgroundImage: `url('/assets/metaverse.jpg')`, marginBottom: 0}}>
+          <h1 className="post-title">Get in Touch!</h1>
+          <p>The future is so bright &rarr;</p>
         </div>
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
