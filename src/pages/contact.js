@@ -26,7 +26,7 @@ const ContactPage = ({
             <p>@tolks1189</p> <FaTwitter/>
         </div> */}
         <div>
-          <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
+          {/* <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
             <div>
               <label htmlFor="w3lName">Name</label>
               <input type="text" name="w3lName" id="w3lName"/>
@@ -46,7 +46,22 @@ const ContactPage = ({
             <div style={{display: "flex", justifyContent: "flex-end"}}>
               <input type="submit" className="button -primary" style={{marginRight: 0}} />
             </div>
-          </form>
+          </form> */}
+          <form className="form-container" name="contact" method="POST" data-netlify="true">
+  <p>
+    <label>Your Name: <input type="text" name="name" /></label>   
+  </p>
+  <p>
+    <label>Your Email: <input type="email" name="email" /></label>
+  </p>
+  
+  <p>
+    <label>Message: <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
         </div>
       </div>
     </Layout>
