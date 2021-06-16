@@ -23,7 +23,7 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
       </Helmet>
       <HeroHeader/>
-      <h2>Blog Posts &darr;</h2>
+      <h2>Recent Posts &darr;</h2>
       <div className="grids">
         {Posts}
       </div>
@@ -32,27 +32,27 @@ const IndexPage = ({
 }
 
 export default IndexPage
-export const pageQuery = graphql`
-  query indexPageQuery {
-    site {
-      siteMetadata {
-        title
-        description
-      }
+export const query = graphql`
+{
+  site {
+    siteMetadata {
+      title
+      description
     }
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-      edges {
-        node {
-          id
-          excerpt(pruneLength: 250)
-          frontmatter {
-            date(formatString: "MMMM DD, YYYY")
-            path
-            title
-            thumbnail
-          }
+  }
+  allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 3) {
+    edges {
+      node {
+        id
+        excerpt(pruneLength: 250)
+        frontmatter {
+          date(formatString: "MMM DD, YYYY")
+          path
+          title
+          thumbnail
         }
       }
     }
   }
+}
 `

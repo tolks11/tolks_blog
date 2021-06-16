@@ -1,27 +1,27 @@
 import React from "react"
-import { Link, useStaticQuery, graphql } from "gatsby"
+import { Link } from "gatsby"
 import Navigation from "../components/navigation"
 import 'prismjs/themes/prism-okaidia.css';
-
+import { StaticImage } from "gatsby-plugin-image";
 
 
 export default ({ children }) => {
-  const data = useStaticQuery(
-    graphql`
-      query {
-        site {
-          siteMetadata {
-            title
-          }
-        }
-      }
-    `
-  )
+  // const data = useStaticQuery(
+  //   graphql`
+  //     query {
+  //       site {
+  //         siteMetadata {
+  //           title
+  //         }
+  //       }
+  //     }
+  //   `
+  // )
   return (
     <div className="site-wrapper">
       <header className="site-header">
         <div className="site-title">
-          <Link to="/">{data.site.siteMetadata.title}</Link>
+          <Link to="/"><StaticImage layout="fixed" width={200} height={200} src="../images/logo" alt="custom logo"/>logo here</Link>
         </div>
         <Navigation />
       </header>

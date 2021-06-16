@@ -60,5 +60,7 @@ module.exports = {
     // siteURL is a must for sitemap generation
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-offline`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
   ],
 }

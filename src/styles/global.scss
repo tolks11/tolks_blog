@@ -75,7 +75,7 @@ a {
 .navigation {
   display: flex;
   align-items: center;
-  font-weight: 300;
+  font-weight: 800;
   a {
     color: #888;
     text-decoration: none;
@@ -129,7 +129,7 @@ a {
   text-decoration: none;
   color: var(--btn-text-color);
   font-size: 16px;
-  font-weight: 400;
+  font-weight: 800;
   margin: 0 20px 0 0;
   transition: background-color .3s linear;
   &.-primary {
@@ -334,6 +334,7 @@ body.dark {
 body.light {
   .gg-sun {
     display: none;
+    cursor: pointer;
   }
 }
 .mode-container {
@@ -366,6 +367,9 @@ body.light {
   box-shadow: inset 0 0 0 2px;
   border: 6px solid transparent
 }
+.gg-sun:hover {
+  --primary-color: #961616;
+}
 .gg-sun::after,
 .gg-sun::before {
   content: "";
@@ -377,10 +381,11 @@ body.light {
   border-right: 4px solid;
   border-left: 4px solid;
   left: -6px;
-  top: 5px
+  top: 5px;
+  cursor: pointer;
 }
 .gg-sun::before {
-  transform: rotate(-45deg)
+  transform: rotate(-45deg);
 }
 .gg-sun::after {
   transform: rotate(45deg)
@@ -398,7 +403,8 @@ body.light {
     width: 20px;
     height: 20px;
     border: 2px solid;
-    border-bottom-color: transparent
+    border-bottom-color: transparent;
+    cursor: pointer;
 }
 .gg-moon::after {
     content: "";
@@ -408,5 +414,21 @@ body.light {
     border: 2px solid transparent;
     box-shadow: 0 0 0 2px;
     top: 8px;
-    left: 2px
+    left: 2px;
+}
+
+.working {
+  color:blue;
+}
+
+.react-icons {
+  color: pink;
+  vertical-align: middle;
+  size: 400px;
+}
+
+.blogs {
+  text-align: center;
+  font-weight: 800;
+  margin: 2rem 0;
 }
