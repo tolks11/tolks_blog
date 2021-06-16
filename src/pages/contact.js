@@ -3,6 +3,8 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
+
+
 const ContactPage = ({
   data: {
     site
@@ -19,6 +21,10 @@ const ContactPage = ({
           <h1 className="post-title">Get in Touch!</h1>
           <p>The future is so bright &rarr;</p>
         </div>
+        {/* <div className="text-container">
+            <p>toelkeerik@gmail.com</p>
+            <p>@tolks1189</p> <FaTwitter/>
+        </div> */}
         <div>
           <form className="form-container" action="https://sendmail.w3layouts.com/SubmitContactForm" method="post">
             <div>

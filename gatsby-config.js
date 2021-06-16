@@ -5,7 +5,6 @@
  */
 
 module.exports = {
-  /* Your site config here */
   siteMetadata: require("./site-meta-data.json"),
   plugins: [
     {
@@ -62,5 +61,6 @@ module.exports = {
     `gatsby-plugin-offline`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `react-icons`,
   ],
 }

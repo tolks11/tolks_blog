@@ -76,6 +76,7 @@ a {
   display: flex;
   align-items: center;
   font-weight: 800;
+  font-size: 1.5rem;
   a {
     color: #888;
     text-decoration: none;
@@ -418,7 +419,7 @@ body.light {
 }
 
 .working {
-  color:blue;
+  color:green;
   display: flex;
   align-items: center;
   font-size: 5rem;
@@ -426,12 +427,18 @@ body.light {
 
 .react-icons {
   color: pink;
-  vertical-align: middle;
+  display: flex;
   size: 400px;
+  justify-content: space-between;
 }
 
 .blogs {
   text-align: center;
   font-weight: 800;
   margin: 2rem 0;
+}
+
+.logo {
+  height:  125px;
+  width: 150px;
 }
