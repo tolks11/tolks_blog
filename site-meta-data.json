@@ -4,6 +4,10 @@
   "description": "cryptocurrency and the future",
   "home": {
     "title": "Hi! I'm tolks!",
+<<<<<<< HEAD
     "description": "deeply interested in crypto currencies and blockchain technology and how they'll impact our future, so expect periodic blogs about that and other emergent tech here. please don't hesitate to reach out and tell me how stupid I am or to start a geniue conversation!"
+=======
+    "description": "deeply interested in crypto currencies and blockchain technology and how they'll impact our future, so expect periodic blogs about that here. please don't hesitate to reach out and tell me how stupid I am!"
+>>>>>>> 8e4b8e34e519d49e49069c6ad978c74541fb36a1
   }
 }
