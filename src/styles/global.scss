@@ -419,6 +419,9 @@ body.light {
 
 .working {
   color:blue;
+  display: flex;
+  align-items: center;
+  font-size: 5rem;
 }
 
 .react-icons {

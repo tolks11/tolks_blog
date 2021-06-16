@@ -4,7 +4,6 @@ import ThemeChanger from "../components/themeChanger"
 
 export default (props) => (
   <nav className="navigation"> 
-    {/* <Link to="/cincy-crypto">Cincy Crypto</Link> */}
     <Link to="/">Home</Link>
     <Link to="/blogs">Previous Posts</Link>
     <Link to="/test">Test Page</Link>

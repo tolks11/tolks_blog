@@ -7,13 +7,19 @@ import '../styles/global.scss'
 
 const Test = () => {
     return (
-        <>
+        <div>
             <h1 className='working'>working</h1>
-            <IconContext.Provider value={{ className: 'react-icons'}}/>
+            <IconContext.Provider value={{ className: 'react-icons' }}>
+                <div>
                 <FaTwitter />
+                </div>
+            </IconContext.Provider>
                 <FaGithubSquare/>
                 <FaTshirt/>
-        </>
+        </div>
+                
+
+     
     )
 }
 
