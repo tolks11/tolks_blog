@@ -442,3 +442,21 @@ body.light {
   height:  125px;
   width: 150px;
 }
+
+.submit-btn {
+  font-weight: bold;
+  background-color: #961616;
+  border-radius: 15px;
+  align-items: right;
+  justify-content: center;
+  padding: 15px 30px;
+  font-size: 14px;
+  margin: 0 right;
+  cursor: pointer;
+  border: solid white 2px;
+  color: white;
+}
+
+.form-text.dark {
+  color: white;
+}

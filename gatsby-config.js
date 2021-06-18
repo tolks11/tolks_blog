@@ -39,18 +39,19 @@ module.exports = {
         trackingId: "UA-164743872-1",
         head: true,
       }
-    }
-      // resolve: `gatsby-plugin-manifest`,
-      // options: {
-      //   name: `Delog GatbsyJS Starter`,
-      //   short_name: `Delog`,
-      //   start_url: `/`,
-      //   background_color: `#fff`,
-      //   theme_color: `#381696`,
-      //   display: `standalone`,
-      //   icon: "src/images/logo.jpg",
-      // },
-    ,
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Delog GatbsyJS Starter`,
+        short_name: `Delog`,
+        start_url: `/`,
+        background_color: `#fff`,
+        theme_color: `#381696`,
+        display: `standalone`,
+        icon: `src/images/logo.jpg`,
+      },
+    },
     `gatsby-plugin-sass`, 
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-netlify-cms`,

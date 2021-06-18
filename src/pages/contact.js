@@ -6,10 +6,14 @@ import Layout from "../components/layout"
 
 
 const ContactPage = ({
+
+
+
   data: {
     site
   },
 }) => {
+
   return (
     <Layout>
       <Helmet>
@@ -18,8 +22,8 @@ const ContactPage = ({
       </Helmet>
       <div className="two-grids -contact">
         <div className="post-thumbnail" style={{backgroundImage: `url('/assets/metaverse.jpg')`, marginBottom: 0}}>
-          <h1 className="post-title">Get in Touch!</h1>
-          <p>The future is so bright &rarr;</p>
+          <h1 className="post-title">wagmi</h1>
+          <p>Let's talk, the future is so bright ! &rarr;</p>
         </div>
         {/* <div className="text-container">
             <p>toelkeerik@gmail.com</p>
@@ -47,20 +51,18 @@ const ContactPage = ({
               <input type="submit" className="button -primary" style={{marginRight: 0}} />
             </div>
           </form> */}
-          <form className="form-container" name="contact" method="POST" data-netlify="true">
-  <p>
+<form className="form-container" name="responses" method="POST" data-netlify="true" netlify>
+  <h3 className="form-text">
     <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
-  <p>
+  </h3>
+  <h3 className="form-text">
     <label>Your Email: <input type="email" name="email" /></label>
-  </p>
+  </h3>
   
-  <p>
+  <h3 className="form-text">
     <label>Message: <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <button type="submit">Send</button>
-  </p>
+  </h3>
+    <button onClick={() => console.log('thank you!')}  className="submit-btn" type="submit">Submit</button>
 </form>
         </div>
       </div>
