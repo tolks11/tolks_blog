@@ -3,12 +3,7 @@ import Helmet from "react-helmet"
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 
-
-
 const ContactPage = ({
-
-
-
   data: {
     site
   },
@@ -25,18 +20,17 @@ const ContactPage = ({
           <h1 className="post-title">wagmi</h1>
           <h2>Let's talk, the future is so bright!</h2>
         </div>
-          <form  name="contact" className="form-container" method="POST" data-netlify="true">
-            <h3 className="form-text">
+        <div className="form-container">
+          <form  name="contact"  method="POST" data-netlify="true">
+            <input type="hidden" name="form-name" value="contact" />
+            <p>
               <label>Your Name or @: <input type="text" name="name" /></label>   
-            </h3>
-            <h3 className="form-text">
+            </p>
               <label>Your Email (optional): <input type="email" name="email" /></label>
-            </h3>
-            <h3 className="form-text">
               <label>Message: <textarea name="message"></textarea></label>
-            </h3>
               <button onClick={() => console.log('thank you!')}  className="submit-btn" type="submit">Submit</button>
           </form>
+          </div>
      </div>
     </Layout>
   )
