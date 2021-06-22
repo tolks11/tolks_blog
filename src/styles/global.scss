@@ -105,6 +105,7 @@ a {
 .site-widgets {
   display: flex;
   justify-content: space-between;
+  margin-top: 3rem;
 }
 .site-title a {
   color: var(--primary-color);
@@ -455,5 +456,9 @@ body.light {
   cursor: pointer;
   border: solid white 2px;
   color: white;
+}
+
+.year {
+  padding-top: 2rem;
 }
 
