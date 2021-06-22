@@ -1,9 +1,9 @@
 ---
 template: BlogPost
-path: /src
+path: /Disruption
 date: 2021-06-16T17:44:27.083Z
-title: 'Helium v. Amazon '
+title: 'Amazon, Helium, and The Future of Disruption'
 metaDescription: coming soon
-thumbnail: /assets/metaverse.jpg
+thumbnail: /assets/CHAOS.png
 ---
 coming soon
