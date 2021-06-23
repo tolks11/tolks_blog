@@ -1,7 +1,7 @@
 ---
 template: BlogPost
-path: /Disruption
-date: 2021-06-16T17:44:27.083Z
+path: /disruption
+date: 2021-06-21T17:44:27.083Z
 title: 'Amazon, Helium, and The Future of Disruption'
 metaDescription: coming soon
 thumbnail: /assets/chaos.jpeg
