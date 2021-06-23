@@ -24,7 +24,7 @@ export default ({ children }) => {
           <a href="https://dandrpromotions.com" target="_blank" rel="noopener noreferrer"><FaTshirt size="2.25rem" color="#FF9833 "/></a>
           <a href="https://tolks.me/contact" target="_blank" rel="noopener noreferrer"><FaEnvelopeOpen size="2.25rem" /></a>
         </div>
-        <p>&copy; {new Date().getFullYear()} tolks </p>
+        <p className="year">&copy; {new Date().getFullYear()} tolks </p>
       </footer>
     </div>
   )

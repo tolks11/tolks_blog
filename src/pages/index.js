@@ -20,7 +20,9 @@ const IndexPage = ({
     <Layout>
       <Helmet>
         <title>{site.siteMetadata.title}</title>
-        <h1>deeply interested in</h1>
+        <p>deeply interested in crypto assets and blockchain technology and their future impact so expect periodic blogs about that here.</p>
+        <p>working with python, react, javascript and writing smart contracts with solidity and hardhat.</p>
+        <p>please don't hesitant to reach out and tell me how stupid I am or to start a geniune conversation!</p>
       </Helmet>
       <HeroHeader/>
       <h2>Recent Posts &darr;</h2>
