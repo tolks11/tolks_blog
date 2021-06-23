@@ -37,8 +37,6 @@ const IndexPage = ({
 
 export default IndexPage
 export const query = graphql`
-{
-  }
   allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 3) {
     edges {
       node {
