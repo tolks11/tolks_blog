@@ -19,7 +19,8 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>Hi, I'm tolks!</title>
+        <title>tolks</title>
+        <h3>Hi, I'm tolks!</h3>
         <p>deeply interested in crypto assets and blockchain technology and their future impact, so expect periodic blogs about that here.</p>
         <p>working with python, react, javascript and writing smart contracts with solidity and hardhat.</p>
         <p>you can follow me and reach out on twitter <a className="twit-link" href="https://twitter.com/tolks1189" target="_blank" rel="noopener noreferrer" >here</a>, or send an email via the contact page!</p>
