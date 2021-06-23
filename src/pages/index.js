@@ -19,7 +19,8 @@ const IndexPage = ({
   return (
     <Layout>
       <Helmet>
-        <title>tolks</title>
+        <title>{site.siteMetadata.title}</title>
+        <meta name="description" content={site.siteMetadata.description} />
         <h3>Hi, I'm tolks!</h3>
         <p>deeply interested in crypto assets and blockchain technology and their future impact, so expect periodic blogs about that here.</p>
         <p>working with python, react, javascript and writing smart contracts with solidity and hardhat.</p>
@@ -37,6 +38,14 @@ const IndexPage = ({
 
 export default IndexPage
 export const query = graphql`
+query indexPageQuery {
+  site {
+    siteMetadata {
+      title
+      description
+    }
+  }
+}
   allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 3) {
     edges {
       node {
