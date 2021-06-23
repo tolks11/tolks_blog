@@ -38,11 +38,6 @@ const IndexPage = ({
 export default IndexPage
 export const query = graphql`
 {
-  site {
-    siteMetadata {
-      title
-      description
-    }
   }
   allMarkdownRemark(sort: {order: DESC, fields: frontmatter___date}, limit: 3) {
     edges {
