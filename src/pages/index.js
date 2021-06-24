@@ -18,17 +18,19 @@ const IndexPage = ({
 
   return (
     <Layout>
-      <Helmet>
+      <Helmet >
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
-        <h3>Hi, I'm tolks!</h3>
+      </Helmet>
+      {/* <HeroHeader/> */}
+      <div className="main">
+      <h1>Hi, I'm tolks!</h1>
         <p>deeply interested in crypto assets and blockchain technology and their future impact, so expect periodic blogs about that here.</p>
         <p>working with python, react, javascript and writing smart contracts with solidity and hardhat.</p>
         <p>you can follow me and reach out on twitter <a className="twit-link" href="https://twitter.com/tolks1189" target="_blank" rel="noopener noreferrer" >here</a>, or send an email via the contact page!</p>
         <p>please don't hesitant to reach out and tell me how stupid I am or to start a geniune conversation!</p>
-      </Helmet>
-      <HeroHeader/>
-      <h2>Recent Posts &darr;</h2>
+      <button className="button -primary">Get in touch! &rarr;</button>
+      </div>
       <div className="grids">
         {Posts}
       </div>
