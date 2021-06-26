@@ -54,11 +54,13 @@ z-k technology (zero-knowledge proofs) basically cryptographically prove I know 
 
 Akash decentralized cloud storage (another attack on Amazon), hold the token that powers the cloud services and the more that the system grows, the more data it can handle, the higher the price of the coin etc, etc, 
 
-
+Decentralized social media, actual economic reward for engagement, contribution of positive-sum ideas, following, etc etc.
 
 ## Disruption & Competition
 
 Tie back into the broad idea of competing with big tech through incentives and rewards while simultaneously expanding the network creating network effects that are massive.  Mention other protocols listed below trying the same ideas in Web3 and the disruption we'll see in the future as these concepts evolve and adapt....AGAIN ALL OF THIS IS SO NEW, LESS THAN A FEW YEARS OLD.  
+
+While the focus of crypto assets is often the amount of energy they use, (and this is true for PoW blockchains although often misunderstood) there are use cases being built out in real time that provide immense benefit to the consumer, all while rewarding them economic value and participation in the network.  I think we're beginning to see the actual expansion and implementation of Web3 ideas that can compete with Big Tech on a global scale as they can provide economic incentives to participates.  Network effects at a global distributed scale we haven't seen since Twitter and Facebook, all while being rewarded for every marginal increase in user adoption.  Extreme best of both worlds.
 
 These are just two examples benefiting maybe \~250,000 people but the future ramifications are massive.  What is the future of competition and disruption if Helium can reward people for providing their own 5G internet coverage, and actually apply pressure to the massive cell providers.  If a blockchain game could apply wage pressure in emerging economies around the world, what else will develop from these underpinnings in the future?  The implications of this and crypto-economic design systems are being pushed to their limit with real-world impacts on earnings and global participation.  These things (Helium, blockchain games) have only existed since \~2019 at the earliest, and it's easy to imagine this trend continuing to emerge and having the unique ability to compete with the internet giants we know today.  The future is so bright.
 
