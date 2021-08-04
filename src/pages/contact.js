@@ -21,13 +21,13 @@ const ContactPage = ({
           <h2>Let's talk, the future is so bright!</h2>
         </div>
         <div className="form-container">
-          <form  name="contact"  method="POST" data-netlify="true">
+          <form  name="contact" subject="contact"  method="POST" data-netlify="true">
             <input type="hidden" name="form-name" value="contact" />
             <p>
-              <label>Your Name or @: <input type="text" name="name" /></label>   
+              <label className="form-label">Your Name or @: <input type="text" name="name" /></label>   
             </p>
-              <label>Your Email (optional): <input type="email" name="email" /></label>
-              <label>Message: <textarea name="message"></textarea></label>
+              <label className="form-label">Your Email (optional): <input type="email" name="email" /></label>
+              <label className="form-label">Message: <textarea name="message"></textarea></label>
               <button onClick={() => console.log('thank you!')}  className="submit-btn" type="submit">Submit</button>
           </form>
           </div>

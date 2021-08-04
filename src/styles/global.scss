@@ -65,7 +65,7 @@ a {
   }
 }
 .site-wrapper {
-  padding: 32px;
+  padding: 25px;
   max-width: 1140px;
   margin: 0 auto;
   img {
@@ -96,7 +96,7 @@ a {
 .site-header {
   display: flex;
   justify-content: space-between;
-  padding: 20px 0;
+  padding: 10px 0;
   background: var(--site-header);
   margin-bottom: 32px;
   align-items: center;
@@ -420,12 +420,7 @@ body.light {
     left: 2px;
 }
 
-.working {
-  color:green;
-  display: flex;
-  align-items: center;
-  font-size: 5rem;
-}
+
 
 .react-icons {
   color: pink;
@@ -472,3 +467,4 @@ body.light {
   text-align: center;
   font-size: 1.1rem;
 }
+
