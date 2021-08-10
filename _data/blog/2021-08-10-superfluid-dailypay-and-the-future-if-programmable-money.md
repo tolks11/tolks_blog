@@ -1,0 +1,35 @@
+---
+template: BlogPost
+path: /superfluid
+date: 2021-08-10T22:43:54.759Z
+title: 'Superfluid, DailyPay and the Future if Programmable Money '
+metaDescription: >-
+  The exploration of money and value as programmable streams of time
+  preferences 
+thumbnail: /assets/superfluid_photo.jpeg
+---
+### Programmable Money
+
+Since the implementation of some form of value representing the medium of exchange, instant settlement and transfer of that value has been the holy grail of the transactional process.  This phenomenon has been experimented with for centuries and we still see it reflected everywhere in consumer preferences (PayPal, Venmo, ACH, BNPL, etc.) today.  *While these innovations tackle hard problems and should be celebrated, they fail to provide actual, real-time access and transfer of funds sans the user's willingness to pay fees, which they  overwhelmingly decline to do.  Furthermore, because of the lack of technological capabilities and the incumbents unwillingness to innovate, they can't take the next logical step which is applying these concepts to payroll.  One recent fintech darling does, as DailyPay allows users to pay a fee for wages earned that day or a collection of wages across many days eliminating the ridiculous bi-weekly/monthly payroll.* Again though, we can do better than fees and the user friction of opening an app and facilitating the same transfer each day.  Enter Superfluid, a protocol built on Ethereum (ETH) that allows the programmable transfer of money, in real-time, for a one-time upfront fee (that can become marginal as we'll see).  Superfluid may have cracked the code for real-time, down to the second payments (streams) that could create a seismic shift in the way value is transferred.  Exploring Superfluid, and any crypto protocol in general, becomes orders of magnitude easierr when there is a clear "normal" company for relation.  Noting this, we'll explore the potential of Superfluid and programmable moeny with a comparison to the newly minted fintech unicorn DailyPay, before pontificating about future use cases and the possible implementations of programmable money flows.  
+
+### [Superfluid](https://medium.com/superfluid-blog/the-dawn-of-programmable-cashflows-2d50edae05cb) v. [DailyPay ](https://www.dailypay.com/)and the Product-Market Fit of Instant Flows 
+
+There is no better comparison for an up-and-coming crypto portocol than that of a fresh fintech unicorn.  From a recent Barron's [profile](https://www.barrons.com/articles/dailypay-raises-175-mln-d-round-and-its-now-a-unicorn-51621355832) of DailyPay and their newest funding round, "the round valued DailyPay at over $1 billion, giving unicorn status to the fintech."  Let's explore the clear investor excitement and product-market fit DailyPay has found to get a sense of the potential impact daily cash flows has created for both employees and employers.  DailyPay markets itself as, "...building a new financial system that starts with on-demand pay so that money is always in the raight place at the right time, for everyone.  Our best in-class, trusted, first-of-its-kind technology platform dynamically changes how money moves - changing pay, for good."  Their core product, as you can infer from their company name, is the ability of an employee to access their earnings, or part of their earnings, daily for a flat fee.  The benefits of increasing the velocity of money in an employee's hands are made immediately clear when scrolling their site.  According to their metrics, they boast some impressive statistics that clearly benefit the employer and in addition to the benefits and increased capital efficiency employees receive.  Below are two screenshots from an excellent article on the Earned Wage Access (EWA) ecosystem, along with survey results conducted by DailyPay representing the benefits that the employer-employee relationship receives.  
+
+![Employer's Benefits](/assets/employer_superfluid.png "Employer's Benefits: ")
+
+![Employee's Benefits](/assets/employee_superfluid.png "Employee's Benefits: ")
+
+
+
+*DailyPay's funding round and recent growth shouldn't come as a surprise as we're witnessing the effects of the convergence of 73 million Americans working hourly while unemployment is still recovering from COVID, and employers are finding it increasingly difficult to hire hourly positions.*  Clearly, the access to quicker pay could alleviate some of this stress for everyone involved in the employment ecosystem.  While all of the above is incredibly important, we can look to the future to further increase the benefits to not only the employee-employer relationship, but the broad transfer of value between any two parties when applying these concepts to a blockchain based, crypto structure.  Back to Superfluid. 
+
+
+
+Superfluid describes the benefits it provides to users on its [site](https://app.superfluid.finance/) (MetaMask connection required) as follows, "handle subscriptions, salaries, rewards, and any composable stream of value, with continuous settlement and per-second netting for extreme capital efficiency."  ***Any composable stream of value, with continuous settlement and per-second netting*** is the key subset of the protocol's description.  Superfluid is a protocol built on the Ethereum network which gives it access to a few things that DailyPay can't access.  Notably, these are extreme composability with other protocols, down to the second streams of value, and arbitrarily complex, code verifiable logic.  A few examples of what this means were laid out eloquently by Kyle Samani of MultiCoin Capital in an article that can be read [here](https://multicoin.capital/2021/07/13/networked-cash-flows/?mc_cid=c423f88815&mc_eid=e31c343eb7). Two of the examples of the composability and interoperability referenced above that he alludes to are, "stream $5 per hour to Bob as long as I am receiving at least $10 per hour" and "Bob receives a stream of $20 per hour from his employer, streams $5 to pay back a loan, streams $10 of it into a savings account, pays a few subscriptions, and commits the rest to buying ETH every second."  Powerful.  These examples highlight the potential of the protocol to easily take a portion of an incoming streamed payment and redirect it to payments outstanding and/or dollar cost average into preferred assets and indices.  This same idea can be applied to any other company, entity, or person with a ETH wallet address and presents the excitement and infinite potential of extreme capital efficiency and real-time monitoring of flows.  Furthermore, the increased composability increases overall liquidity and capital efficiency for the entire economic system and is not limited to the previously mentioned employer-employee relationship.  Another bonus is that it would greatly benefit the mid-to-low salary and hourly workers in the socioeconomic class that demands the service the most.  
+
+
+
+### Current, Potential Use Cases and the Land of Infinite Possibilities 
+
+![Current Pay Breakdown ](/assets/SUPERFLUID_LOAN.png "Current Pay Breakdown ")
