@@ -3,7 +3,7 @@ template: BlogPost
 path: /disruption
 date: 2021-06-30T17:44:27.083Z
 title: 'Amazon, Helium, and The Future of Disruption'
-metaDescription: coming soon
+metaDescription: Crypto-economic enabled disruptions
 thumbnail: /assets/chaos.jpeg
 ---
 There are two common diatribes that slowly seem to be interconnected.  They've both been around for about the same time, and are facing an increasing amount of regulatory scrutiny but they couldn't be farther apart in their respective ethos and goals. Of course, I'm talking about Big Tech and Crypto.  While the attacks on each have grown over the past few years, it seems as if they are becoming lumped together in a giant zero-sum game against the environment and the end consumer.  By the end of reading, I hope to present a compelling case that not only can crypto return power and choice to the consumer, but it can do so while **rewarding them** and letting them be active participants in the seemingly only networks that can disrupt Big Tech.
