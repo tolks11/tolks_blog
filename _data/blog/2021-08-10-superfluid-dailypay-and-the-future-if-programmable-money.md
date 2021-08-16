@@ -2,7 +2,7 @@
 template: BlogPost
 path: /superfluid
 date: 2021-08-10T22:43:54.759Z
-title: 'Superfluid, DailyPay and the Future if Programmable Money '
+title: 'Superfluid, DailyPay and the Future of Programmable Money '
 metaDescription: >-
   The exploration of money and value as programmable streams of time
   preferences 
