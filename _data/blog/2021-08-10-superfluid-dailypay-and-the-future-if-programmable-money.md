@@ -28,11 +28,33 @@ Superfluid describes the benefits it provides to users on its [site](https://app
 
 ![Current Pay Breakdown ](/assets/SUPERFLUID_LOAN.png "Current Pay Breakdown ")
 
-The above photo further reinforces the need for disruption the wage access system needs to provide the benefits listed above to employees while also potentially eliminating the predatory nature of payday loans that effect so many low income, hourly workers in this country and abroad.  
+The above photo further reinforces the disruption the wage access system so desperately needs.  As outlined previously, the technology enabling DailyPay, and taken to the logic extreme by Superfluid, to provide economic benefits to both the employer and employee are clear and measurable.  One added potential benefit is the future in which these technologies drastically reduce, or fully eliminate, the predatory nature of payday loans, pawn services, and unnecessary banking fees that effect so many low income, hourly workers in this country and abroad.  Before exploring the impacts programmable streams of value could have on the "real" world, let's examine some protocol use cases that we'll soon see in Superfluid's native ecosystem, the crypto world.  In the article previously referenced (seriously go read it [here](https://multicoin.capital/2021/07/13/networked-cash-flows/)), Kyle Samani lays out some interesting crypto-specific applications that developers will and/or are using Superfluid for today.
 
-Close Current Use Cases and Potential tying and leading into closing remarks
+* DAO (decentralized autonomous organizations) payments infrastructure
 
-hello there 
+  * as with many 
+  * Supports the fast-moving, ever-changing pace of innovation that crypto and DAOs facilitate while supporting ultimate flexibility of payments that is tailored perfectly for interoperability and fluid nature DAOs enable.
+  * Drastically increases the composability and flexibility of talent on a global scale along with increased coordination and lower time commitments between DAOs and their members as they could work for an hour, day, or some arbitrary amount of time on a specific problem or project they have expertise or experience with.
+* Enabling the ability to dollar cost average into assets over time.  Easy to extrapolate this to take some percent of incoming stream and divert it into specific assets or indices, applicable to crypto now and the "real" world in the future.
+* "...reshape risk management as collateral management will become programmable in real time."
+* Continual growth of IoT devices and their use of leveraging Superfluid to facilitate real-time payment streams for data as the world becomes increasingly reliant on them.
+* "Wolta Finance and Streaswap are two projects building tools and interfaces to transfer assets into and out of DeFi protocols programmatically in a continuous streaming fashion."
+* Ability to "push value" to subscription services over time without requiring them to sign a transaction authorizing the stream, something that will become increasingly important and valuable as web 3 continues to gain adoption.
+
+Finally, Kyle succinctly summarizes the lack of immediate value transfer innovation that has plagued the payments industry and reduced the velocity of money saying, "sometimes products and services are paid for 30 or even 90 days after delivery.  The lumpiness of these cashflows reduces the rate of turnover of capital throughout the economy.  The only reason we accept these arrangements is beasue of the lack of better technology coupled with the inertia of the past."  
+
+
+
+While the above use cases are crypto-specific, we can specualte and extrapolate these trends to the potential future impact they could have on everyday life.  While examining the potential effects and use cases of a crypto protocol that is less than a year old, still in beta testing, could be seen as a futile exercise, thinking through future applications of developing protocols is where edges are created.  Furthermore, the potential change in \~all payments\~ if SUperfluid reaches escape velocity is so transformational, preparing for drastic changes is necessary as the implications are exteremely wide ranging, value additive and difficult to grasp.  So, in addition to the crypto-specific use cases outlined above, along with impacts I previously alluded to, here are some things I'm thinking through.  
+
+* Real-time streams and diversion of funds to things such as rent, utilities, outstanding debts, etc. could provide a reduction in payday loans and bank overdraft fees further increasing the available capital for the socioeconomic class that needs it most.  The Barron's article mentioned above specifically mentions this saying, "DailyPay competes with some payroll companies and banks who charge overdraft fees, as well as payday lenders."  This concept becomes more applicable with deeper ramifications in a real-time stream of value environment that Superfluid enables. 
+* More efficient, real-time updating to current available incomes and debts increasing the capital efficiency and disposable income of the middle to lower class coupled with a drastic reduction in fees and high interest, short term loans.  
+* Diverting X amount of each hourly/daily stream to certain expenses would also provide a greater daily to weekly to monthly insight into budgeting and expense tracking.
+* Greatly reduce accounting and company overhead as once arbitrarily designed payment logic is outlined in code, there are orders of magnitude less actions needed for the duration of the stream comparable to traditional payment/payroll systems.  Do X until Y while Z is occurring, etc. etc. etc. for any necessary payment.
+* Adding to the previously listed benefits to both sides of the employer-employee relationship, one can easily imagine the the boost in sales, motivation, and productivity applicable to hourly, tipped, and commission based employees as they could see their compensation instantly, hourly, or daily instead of bi-weekly, monthly, and quarterly targets that are often forgotten about until said date is approaching.
+* Directly appeal to and positively contribute to society's increasing reliance on instant gratification and the further gamification of everyday life events.  Eventually, applying this logic to payroll and sales will become increasingly popular as the outlined benefits are clear to all involved parties. 
+
+
 
 ### The Future of Value Transfer
 
