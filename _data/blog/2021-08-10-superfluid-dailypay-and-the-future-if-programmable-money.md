@@ -28,12 +28,12 @@ Superfluid describes the benefits it provides to users on its [site](https://app
 
 ![Current Pay Breakdown ](/assets/SUPERFLUID_LOAN.png "Current Pay Breakdown ")
 
-
-
 The above photo further reinforces the need for disruption the wage access system needs to provide the benefits listed above to employees while also potentially eliminating the predatory nature of payday loans that effect so many low income, hourly workers in this country and abroad.  
 
 Close Current Use Cases and Potential tying and leading into closing remarks
 
-### The Future of Value Transfer 
+hello there 
+
+### The Future of Value Transfer
 
 Scratching the surface doesn't come close to describing how far away we are from understanding the potential use cases, externalities, and drastic changes that reliable, real-time streams of value would create. These ideas are just beginning to percolate to the edges of the crypto ecosystem which means they are years away from being potentially accepted by the mainstream.  While this obviously has a mid to long term horizon and many things need to happen in the interim, (continual expansion and access to smartphones, further internet connectivity growth, digital wallets on every phone, etc.) the trend is clear.  Accompanied by the continual experiment and eventual deployment of CBDCs (central bank digital currencies) and growth in USDC (US dollar coin) and other stablecoin transfers.  The composability and arbitrary logic that can be applied to Superfluid streams creates an endless number of ideas and potential use cases that we're just beginning to explore.  These ideas and the Superfluid protocol may seem abstract and insane now, but I believe, as evidenced by the current benefits of DailyPay, that Superfluid and real-time stream of money could be true paradigm shift in the way ~all value flows in the future.  The network effects of the protocol and positive-sum contribution to every involved participant outlined above provide many benefits including: increasing the employee capital efficiency and creating positive externalities in their financial loves (again, predominately the mid to lower class as an added benefit), providing the employer with increased productivity, higher employee job satisfaction, greater likelihood to hire employees when needed, and a reduction in turnover rate all elude to future adoption of the Superfluid protocol.  This results in providing immense value-additive changes in the employer-employee relationship that we'll see develop over the coming years.  The future is so bright.
