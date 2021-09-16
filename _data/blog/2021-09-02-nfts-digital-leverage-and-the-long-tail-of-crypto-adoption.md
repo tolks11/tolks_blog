@@ -24,13 +24,13 @@ Companies, games, ecosystems, social networks and everything built on top of, or
 * Inability to transport followers/likes/accomplishments etc., ecosystem won't benefit from network effects already established along with the inability to integrate with future web 3.0 social media and community based things
 * Inability to compose with established games and organizations and not allowing users to build on top of your ecosystem drastically limits the upside potential moving forward 
 
-
-
 Digital presence/ownership worth more than physical at scale and ability to leverage marginal cost increase in producing more goods (think software at scale)
 
-SCALABILITY through traditional internet distribution models and reach that NFTs and digital assets, specifically in the crypto ecosystem, have.  24/7 global access that allows 
+SCALABILITY through traditional internet distribution models and reach that NFTs and digital assets have.  The world is increasingly active 24/7 with global distribution that crypto uniquely benefits from as the markets are global and never close.  
 
-Think of press coverage of Visa buying an NFT as another form of digital leverage.  The scale and distribution that entailed isn't possible in the physical/non-crypto world.  Operate on a global, 24/7 level where people would rather flex a profile picture worth 500k than buy a new house partly because one's addressable market is n of family and friends and the other is n of the user base of platforms where it is displayed.  Digital Leverage creates unparalleled operating scale where digital items \~should\~ be worth more than physical items. 
+A good example of the new shift is the recent crypto punk purchase that Visa made. Think of press coverage of Visa buying an NFT as another form of digital leverage.  The scale and distribution that entailed isn't possible in the physical/non-crypto world.  Operate on a global, 24/7 level where people would rather flex a profile picture worth 500k than buy a new house partly because one's addressable market is n of family and friends and the other is n of the user base of platforms where it is displayed.  Digital Leverage creates unparalleled operating scale where digital items \~should\~ be worth more than physical items because of their networks and drastically reduced marginal cost to add n items or assets.   
+
+Scalability in distribution and audience along with utility as the programmable nature of digital items allows them orders of magnitude more flexibility and composability.  
 
 Recently seen the value in digital presence and marketing after witnessing digital business models become more valuable than physical stores.  Digital goods operate in the same comparison where the TAM is infinitely more vast than the physical world due to obvious constraints that don't apply online.
 
@@ -40,15 +40,21 @@ Loot as the ability to have NFTs represent immeasurable and open design space of
 
 Finish with Axie example of scaling their revenue and leading into further discussion of NFT games and their models, expansion and trading/ownership of NFTs 
 
+network effects and scalable nature without proportional costs to scale perfectly exemplified by Axie growing from revenue of 100,000, to 350M, to 700M in ~6 months 
+
 ## Gaming & the M Word
 
-The single largest community in the world is that of gamers.  According to Statista [data](https://www.statista.com/statistics/748044/number-video-gamers-world/), there were 2.69 billion active video gamers worldwide in 2020 with that total estimated to grow to 3.07 billion by 2025.  More Statista data shows that in-game purchases reached a staggering $54 billion dollars in 2020.  Gaming, along with internet growth and penetration, are two of the highest growth sectors not only of the past 10+ years, but expected future growth as well.  There's only one industry that as grown at a faster pace and that is the crypto economy.  Things become extremely interesting when combining crypto backed economic systems with games.  The M word (Metaverse) has been unavoidable recently for this reason.  
+The single largest community in the world is that of gamers.  According to Statista [data](https://www.statista.com/statistics/748044/number-video-gamers-world/), there were 2.69 billion active video gamers worldwide in 2020 with that total estimated to grow to 3.07 billion by 2025.  More Statista data shows that in-game purchases reached a staggering $54 billion dollars in 2020.  Gaming, along with internet growth and penetration, are two of the highest growth sectors not only of the past 10+ years, but expected future growth as well.  There's only one industry that has grown at a faster pace and that is the home of NFTs, the crypto economy.  Things become extremely interesting when combining crypto backed economic systems and games.  The M word (Metaverse) has been unavoidable recently in part due to the design space and imagination possible when combining ownership and economic systems built around and through the interconnection of games.  Ownership of in-game assets and the ability to frictionlessly transfer them (again, refer to inventories and network effects referenced above) from one online, interactive space to another.  
+
+AXIE/STAR ATLAS 
 
 List the market and numbers, connect to Axie Infinity and other blockchain/crypto games  (Star Atlas) and how blockchains, NFTs, tokens will completely transform the future of gaming as people can earn, or not lose! money while having actual ownership and composability between items in separate gaming worlds 
 
 Play to earn and Axie Infinity {few links including mine}, again Axie reinforced the incentive alignment that players and developers have to ensure the game is operating as well as possible and growing the entire ecosystem
 
 SCALABILITY also at the protocol growth level enabled by the open, composable nature of NFTs allowing users, developers, protocol engineers, etc to make improvements as they collectively own and operate the ecosystem and are incentivized/rewarded for it's growth 
+
+The perfect example of previously discussed topics including digital leverage, network effects, ownership, play-to-earn, scalability, and economic incentives is tied together perfectly by Axie Infinity.  
 
 Digital Leverage and scalability also massively benefit blockchain games as they scale and grow.  Axie REVENUE, JAN--$100,000, july--196 million, August--370 million
 
