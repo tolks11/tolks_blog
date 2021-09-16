@@ -48,17 +48,19 @@ List the market and numbers, connect to Axie Infinity and other blockchain/crypt
 
 Play to earn and Axie Infinity {few links including mine}, again Axie reinforced the incentive alignment that players and developers have to ensure the game is operating as well as possible and growing the entire ecosystem
 
+SCALABILITY also at the protocol growth level enabled by the open, composable nature of NFTs allowing users, developers, protocol engineers, etc to make improvements as they collectively own and operate the ecosystem and are incentivized/rewarded for it's growth 
+
 Digital Leverage and scalability also massively benefit blockchain games as they scale and grow.  Axie REVENUE, JAN--$100,000, july--196 million, August--370 million
 
 two-way economies inside games where players can benefit, contribute, and grow the total value of the game economy compared to the previous walled gardens and one-way value transfers (users pay for game items with no ownership) of previous games --> "BI-DIRECTIONAL VALUE FLOW" rare things exist with incentive alignment where value flow increases to the users as the ecosystem grows (NFTs representing digital assets creating economies that can allow selling, developing, lending, borrowing, of said digital assets) and creators, DAOs, whoever governing the game ecosystem benefiting from the growth in some form of fee share.  
 
-As writing this, opened an email from Star Atlas with some development updates and announcements.  One of these was a brand partnership between Star Atlas and Animoca Brands that read, "through this groundbreaking cross-platform collaboration, we will cross-license intellectual property, and further empower true digital ownership in making in-game items permanent assets in a self-sustainable player-owned economic system."
+As writing this, opened an email from Star Atlas (Solana blockchain game) with some development updates and announcements.  One of these was a brand partnership between Star Atlas and Animoca Brands that read, "through this groundbreaking cross-platform collaboration, we will cross-license intellectual property, and further empower true digital ownership in making in-game items permanent assets in a self-sustainable player-owned economic system."
 
 ## Other things NFTs enable
 
 * Crypto Enabled Attributes 
 
-  * interoperable, composable, permisionless, global coordination that is applicable to the entire crypto ecosystem including NFTs and fungible tokens 
+  * interoperable, composable, 24/7, permisionless, global coordination that is applicable to the entire crypto ecosystem including NFTs and fungible tokens 
   * incentive alignment--coordination and open contribution of protocols allows for beneficial growth to the entire ecosystem 
   * users, participants, developers, etc. all have the same economic benefit and ownership of the protocol, NFT, or token which inherently creates massive network effects on a global scale 
 * Sports Collectibles & Ticketing
@@ -72,18 +74,19 @@ As writing this, opened an email from Star Atlas with some development updates a
   * ability to mint NFTs representing real world items or not, and then fractionalize their ownership into fungible tokens that can be used as collateral, to lend and borrow, increase liquidity and access
   * Already happening with high value NFTs such as cryptopunks but also easy to imagine a future where this applies to real-estate, home-ownership, cars, high-value tangible assets (wine, irl art, rare items, etc.)
 * Verifiable Representation of Accomplishments 
-* Programmable Money (better word here)
+
+  * earliest experimentation developing here as on-chain protocol involvement, tasks, accomplishments, etc. could be represented as verifiable NFTs
+* Programmable Money ???
 * Ownership and participation in Web 3.0 
 
   * NFTs as the core economic element of the next-generation digital economy 
   * Allow ownership and financial benefit from social capital at a global scale that represents the vast and exponentially increasing of online interactions/items we consume 
+* Ability to transfer, value, lend/borrow, collateralize, represent ownership the entire world of digital assets and things
 
-## So, what now?
+## So, what next?
 
-Ultimately, the bull case for NFTs and crypto adoption continually reverts back to some of the core crypto enabled concepts applicable to both NFTs and fungible tokens.  Globally accessible, digital assets that are interoperable, permisionless, and composable have unlimited design space and hyperspeed feedback loops that allow more flexibility, interoperability, lower marginal costs, and lower barriers to entry.  
+Ultimately, the bull case for NFTs and crypto adoption continually reverts back to some of the core crypto enabled concepts applicable to both NFTs and fungible tokens.  Globally accessible, digital assets that are interoperable, permisionless, and composable have unlimited design space and hyperspeed feedback loops that allow more flexibility, interoperability, lower marginal costs, and lower barriers to entry that are accessible to everyone with an internet connection.   
 
 Applicable to current markets--> SOL/ETH, SOL as the gaming and low value, high throughput settlement layer while ETH settles mid-high value transfers and certain DeFi protocols.  Symbiotic relationship between the two moving forward? 
-
-How do you price the ability to transfer, value, profit, true ownership of previously intangible digital assets?????
 
 Post will be finalized EoD 9/16
