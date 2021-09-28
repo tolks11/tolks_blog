@@ -10,7 +10,7 @@ thumbnail: /assets/nfts_cover.jpeg
 ---
 The catalyst behind broad crypto adoption has been speculated on since before the first genesis block of any chain was mined.  One of the first examples of this was Hal Finney, a BTC and crypto pioneer, in an email sent in 1993.  Hal wrote, "We're buying and selling 'cryptographic trading cards'.  Fans of cryptography will love these fascinating examples of the cryptographic arts.  Notice the fine way the bit patterns fit together - a mix of one-way functions and digital signatures, along with random blinding.  What a perfect conversation piece to be treasured and show to your friends and family...They come in all kinds of varieties, from the common 1's, to the rarer 50's, all the way up to the seldom-seen 1000's. "  With the obvious benefit of hindsight, we can map this concept directly to the explosive growth of NFTs (non-fungible tokens) today.  Fittingly, I think NFTs will usher in widespread crypto adoption.  While NFTs could be distilled down to a single sentence (NFTs are interoperable, programmable, verifiable representations of digital items), the practicality and implementation this enables leaves infinite possibilities.  The two core NFT use cases I think will lead to massive secular growth are digital leverage and gaming.
 
-![Hal finney explaining one of the earliest concepts of NFTs](/assets/hal_finney.png)
+![Hal Finney explaining one of the earliest concepts of NFTs](/assets/hal_finney.png)
 
 ## Digital Leverage
 
@@ -18,7 +18,7 @@ Over the past several years (drastically increased by COVID-19), being digitally
 
 Ownership and scalability are the two core components of digital leverage.  Inventories and ownership can be used interchangeably in the new digital realm, as NFTs give people, users, gamers, etc. the ability to own the assets they interact with.  Composability is the attribute that ties ownership and inventories together as the ability to port and move digital items across various different domains is a unique trait NFTs and crypto enable.  
 
-Companies, games, ecosystems, social networks and everything built on top of, or interacting with, web 3.0 not applying this fall behind.  We'll continue to see these "inventories" increase, which creates demand for composability of digital assets increases, which creates new, broader inventories feeding a massive flywheel effect.
+Companies, games, ecosystems, social networks and everything built on top of, or interacting with, web 3.0 not applying this interoperability concept will fall behind.  We'll continue to see these "inventories" increase, which creates demand for composability of digital assets increases, which creates new, broader inventories feeding a massive flywheel effect.
 
 * Inability to transfer digital items and in-game assets, game ecosystem TAM and users becomes increasingly difficult to grow as no one will want to operate inside a closed environment (already seeing this with API access, open source code, etc.)
 * Inability to transport followers/likes/accomplishments etc., ecosystem won't benefit from network effects already established along with the inability to integrate with future web 3.0 social media and community based things
@@ -37,6 +37,8 @@ Recently seen the value in digital presence and marketing after witnessing digit
 Digital leverage also creates access, community, and identity.  We're already seeing the beginning of what leveraging a NFT (in this case as a profile picture can enable).  Whether it's cryptopunks, BAYC (Bored Ape yacht Club), or some other PfP (Profile Picture), you are immediately welcomed into that specific community and sometimes even granted access to Discord servers, community get togethers, etc.  This trend is not new and has existed as long as humans have.  Whether it's religion, profile pictures, sports fandom, niche interests, politics, country flags, etc. there is a community you belong to.  This is exacerbated in the Web 3.0 and NFT realm through the combination of skin in the game and true ownership.  Buying an NFT to participate in a community has real economic costs compared to putting a hashtag or flag emoji in your bio, but with that come the benefits of Discord, Telegram groups, and even exclusively communities where ownership levels of certain digital assets are required for access.  NFTs and PfPs create digital leverage in the fact that you can access these communities and participate in the economic growth and expansion of said community along with the other members.  
 
 Loot as the ability to have NFTs represent immeasurable and open design space of charafcteristics that could be applied/used inside a game without that specific game even existing as the community of NFT holders/participants works together to build it out 
+
+DIGITAL LEVERAGE IN MEMETIC DESIRE AS THEY global, connected reach creates a feedback loop of increasing desire to be a part of a community as each marginal user has potentially thousands to hundreds of thousands of interactions as PfP avatars 
 
 Finish with Axie example of scaling their revenue and leading into further discussion of NFT games and their models, expansion and trading/ownership of NFTs 
 
