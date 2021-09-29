@@ -16,15 +16,21 @@ The catalyst behind broad crypto adoption has been speculated on since before th
 
 Over the past several years (drastically increased by COVID-19), being digitally native has become an expectation.  Everything and everyone from companies and brands of all sizes, to any form of organization, to individuals are consistently improving and monetizing their digital presence.  What this has enabled is the realization and experimentation with digital leverage; recently dramatically enhanced by NFTs.  Digital leverage can be summarized with an excerpt from an excellent [post](https://j.mirror.xyz/) by John Palmer where he says, "for entire broad categories of software, if an application doesn't recognize that people hold inventories, it won't be compelling to users.  As we move into the future, more people on the Internet will be accumulating their own inventories of digital objects and won't want to spend time in software that forces them to 'start over'".  NFTs, and crypto broadly, are drastically expanding the interoperable nature of these "inventories" that we're just beginning to explore.  
 
-Ownership and scalability are the two core components of digital leverage.  Inventories and ownership can be used interchangeably in the new digital realm, as NFTs give people, users, gamers, etc. the ability to own the assets they interact with.  Composability is the attribute that ties ownership and inventories together as the ability to port and move digital items across various different domains is a unique trait NFTs and crypto enable.  
+Ownership and scalability are the two core components of digital leverage.  Inventories and ownership can be used interchangeably in the new digital realm, as NFTs give people, users, gamers, companies etc. the ability to own the assets they interact with.  Composability is the attribute that ties ownership and inventories together as the ability to port and move digital items across various different domains is a unique trait NFTs and crypto enable.  
 
-Companies, games, ecosystems, social networks and everything built on top of, or interacting with, web 3.0 not applying this interoperability concept will fall behind.  We'll continue to see these "inventories" increase, which creates demand for composability of digital assets increases, which creates new, broader inventories feeding a massive flywheel effect.
+Companies, games, ecosystems, social networks and everything built on top of, or interacting with, web 3.0 not applying this interoperability concept will fall behind.  We'll continue to see these "inventories" increase, which creates demand for composability of digital assets increases, which creates new, broader inventories feeding a massive flywheel effect supported game theory.  
+
+Power of true ownership and the ability to profit off of 
 
 * Inability to transfer digital items and in-game assets, game ecosystem TAM and users becomes increasingly difficult to grow as no one will want to operate inside a closed environment (already seeing this with API access, open source code, etc.)
 * Inability to transport followers/likes/accomplishments etc., ecosystem won't benefit from network effects already established along with the inability to integrate with future web 3.0 social media and community based things
 * Inability to compose with established games and organizations and not allowing users to build on top of your ecosystem drastically limits the upside potential moving forward 
 
 Digital presence/ownership worth more than physical at scale and ability to leverage marginal cost increase in producing more goods (think software at scale)
+
+MARGINAL INCREASE OF USERS --> through future scaling of social networks, internet access, online presence would prefer digital items/experiences as they have orders of magnitude greater reach than physical items, especially things that could easily seamlessly integrate links to wallets that the lay person can understand kind of like a flex of friends/likes/retweets/favorites/etc --> those are easy to display now but future will be easy to have a representation of NFT (digital assets) at similar ease of use
+
+VIRALITY OF THINGS--> Beeple, baby yoda (specific IP), Visa cryptopunk, etc etc, viral growth lasts and is much more tangible to future value and indicators than real life things at the same scale --> impressions and views are worth more 
 
 SCALABILITY through traditional internet distribution models and reach that NFTs and digital assets have.  The world is increasingly active 24/7 with global distribution that crypto uniquely benefits from as the markets are global and never close.  
 
@@ -44,11 +50,25 @@ Finish with Axie example of scaling their revenue and leading into further discu
 
 network effects and scalable nature without proportional costs to scale perfectly exemplified by Axie growing from revenue of 100,000, to 350M, to 700M in ~6 months 
 
+END WITH NETWORK EFFECTS & GAME THEORY 
+
+game theory -- first operational, global game that benefits ~50ish million users will have such strong network effects and user demand for portability of assets that every game thereafter will have to incorporate interoperability between games and their in-game assets as NFTs because the users will demand it or someone else will fill the gaps where they resist -> user/gamer demands always win out 
+
 ## Gaming & the M Word
 
 The single largest community in the world is that of gamers.  According to Statista [data](https://www.statista.com/statistics/748044/number-video-gamers-world/), there were 2.69 billion active video gamers worldwide in 2020 with that total estimated to grow to 3.07 billion by 2025.  More Statista data shows that in-game purchases reached a staggering $54 billion dollars in 2020.  Gaming, along with internet growth and penetration, are two of the highest growth sectors not only of the past 10+ years, but expected future growth as well.  There's only one industry that has grown at a faster pace and that is the home of NFTs, the crypto economy.  Things become extremely interesting when combining crypto backed economic systems and games.  The M word (Metaverse) has been unavoidable recently in part due to the design space and imagination possible when combining ownership and economic systems built around and through the interconnection of games.  Ownership of in-game assets and the ability to frictionlessly transfer them (again, refer to inventories and network effects referenced above) from one online, interactive space to another.  
 
-AXIE/STAR ATLAS 
+THINGS TO WATCH IN THIS SPACE
+
+* everyone knows Axie (ETH)
+
+  * recent Colossus episode --> Axie revenue JAN (100k), JULY (196 million!!!), AUGUST (370 million !!!) -- network effects, scalability, escape velocity, any cliche here is unmatched in that level of growth that reinforces how rare the network effects and scalability are that crypto/blockchains enable --> marginal cost to software/company are nothing for every additional 100M in revenue, TVL, growth, etc 
+  * INSERT 30D v. 90D retention numbers tweeted recently here --> in fucking sane 
+* Star Atlas (Solana)
+* DeFi Land (Solana)
+* Immutable X (ETH)
+* Ninja (Solana)
+*
 
 List the market and numbers, connect to Axie Infinity and other blockchain/crypto games  (Star Atlas) and how blockchains, NFTs, tokens will completely transform the future of gaming as people can earn, or not lose! money while having actual ownership and composability between items in separate gaming worlds 
 
