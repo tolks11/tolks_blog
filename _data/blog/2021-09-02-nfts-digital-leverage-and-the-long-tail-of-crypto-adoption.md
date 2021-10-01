@@ -34,6 +34,10 @@ VIRALITY OF THINGS--> Beeple, baby yoda (specific IP), Visa cryptopunk, etc etc,
 
 SCALABILITY through traditional internet distribution models and reach that NFTs and digital assets have.  The world is increasingly active 24/7 with global distribution that crypto uniquely benefits from as the markets are global and never close.  
 
+Crypto protocol TVL/Employee ratio --> digital leverage here as well tens of millions to hundreds of millions of value per employee --> Banteg tweet of Curve 13.5B / 6 = 2.26B per employee
+
+
+
 A good example of the new shift is the recent crypto punk purchase that Visa made. Think of press coverage of Visa buying an NFT as another form of digital leverage.  The scale and distribution that entailed isn't possible in the physical/non-crypto world.  Operate on a global, 24/7 level where people would rather flex a profile picture worth 500k than buy a new house partly because one's addressable market is n of family and friends and the other is n of the user base of platforms where it is displayed.  Digital Leverage creates unparalleled operating scale where digital items \~should\~ be worth more than physical items because of their networks and drastically reduced marginal cost to add n items or assets.   
 
 Scalability in distribution and audience along with utility as the programmable nature of digital items allows them orders of magnitude more flexibility and composability.  
