@@ -2,7 +2,7 @@
 template: BlogPost
 path: /disruption
 date: 2021-06-30T17:44:27.083Z
-title: 'Amazon, Helium, and The Future of Disruption'
+title: 'Axie, Helium, and The Future of Disruption'
 metaDescription: Crypto-economic enabled disruptions
 thumbnail: /assets/chaos.jpeg
 ---
