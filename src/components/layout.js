@@ -10,6 +10,9 @@ import { FaTwitter, FaGithub, FaTshirt, FaEnvelopeOpen } from "react-icons/fa";
 export default ({ children }) => {
   return (
     <div className="site-wrapper">
+      <head>
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-207772477-2"></script>
+      </head>
       <header className="site-header">
         <div className="site-title">
           <Link to="/"><img className="logo" src={logo} alt="custom logo"/></Link>
