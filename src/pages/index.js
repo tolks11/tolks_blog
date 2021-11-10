@@ -29,8 +29,8 @@ const IndexPage = ({
         <p>deeply interested in all things crypto, web3</p>
         <p>python, react, javascript and built <a calassName="dandr-link" href="https://dandrpromotions.com" target = "_blank" rel="noopener noreferrer">D&R</a></p>
         <p>follow me and reach out on <a className="twit-link" href="https://twitter.com/tolks1189" target="_blank" rel="noopener noreferrer" >twitter</a>, or send an email via the contact page!</p>
-        <p>please don't hesitant to reach out and start a genuine conversation or tell me how stupid I am!</p>
-      <button href="https://tolks.me/contact" className="button -primary">Get in touch! &rarr;</button> 
+        <p>please don't hesitant to reach out for a genuine conversation or tell me how stupid I am!</p>
+      <a><button href="https://tolks.me/contact" target="_blank" className="button -primary">Get in touch! &rarr;</button></a> 
       </div>
       <div className="grids">
         {Posts}
