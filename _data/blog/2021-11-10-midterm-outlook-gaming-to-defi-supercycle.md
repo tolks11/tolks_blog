@@ -8,7 +8,39 @@ metaDescription: >-
   reaches exit velocity while DeFi protocols are the underlying/backend
   facilitating the value transfer occurring within the games
 ---
-\-Exploration of gaming feeding DeFi as DeFi (dexes/lending protocols/NFT L&B protocols) are the backend that facilitates the transfer of the assets inside the games that reach exit velocity -- downstream effects captured of massive DAU (as games are good at capturing compared to protocols) exchanging game assets 
+\-Exploration of gaming feeding DeFi as DeFi (dexes/lending protocols/NFT L&B protocols) is the backend that facilitates the transfer of the assets inside the games that reach exit velocity -- downstream effects captured of massive DAU (as games are good at capturing compared to protocols) exchanging game assets; leads to consistent growth and underlying sustained application/protocol growth 
+
+
+
+User retention is a metric that is meticulously tracked in every company, ranging from one person startup to fortune 500 company.  Crypto is no different, especially in an industry that has merciless yield farmers and incentive programs released from every plausible corner.  This chart, originally tweeted by Axie Co-Founder [Jihoz](https://twitter.com/Jihoz_Axie), shows the overlap of 30 day and 90 day user retention numbers.  
+
+![Axie Infinity 30d and 90d retention ](/assets/axie_retention.jpeg "Axie Retention Numbers ")
+
+As pointed out in an excellent [thread](https://twitter.com/amytongwu/status/1441968454920118274/photo/1) by [Amy Wu](https://twitter.com/amytongwu), these user retention numbers (upwards of 50%+) are out of this world.  As Amy points out in the above linked thread, the percent of users still playing Axie after 30 and 90 days resembles traditional employment retention metrics.  There are numerous takeaways and potential down-stream effects that this enables, all leading to further crypto adoption and user stickiness that leads to sustained asset growth.  Future implementation of crypto gaming at scale, along with core DeFi infrastructure supporting the exchange, lending, and borrowing of said in-game NFT assets and currencies can sustain massive growth and limit 50%+ drawdowns that we've seen in past market cycles.  
+
+
+
+### DeFi + NFTs = Supercycle 
+
+Ability to have constant influx of users, capital velocity cycled through underlying DeFi protocols that facilitate the swap, lend, borrow, fractionalization of in-game NFTs reduces future drawdowns as there are more opportunities for yield,  speculation, things to do for 10s of millions of users
+
+Comparable Axie metrics where users and activity are still growing at insane rates, even through temporary days to weeks long drawbacks in broad markets 
+
+Hits all the Chris Dixon mental models including things as a toy, gamers leading the way, what people do @ nights and on weekends all integrated into one concept 
+
+### Protocol Benefit & Future Games 
+
+ETH - Axie deriviate, Gods Unchained, Immutable X 
+
+worst positioned short to mid term, long term best with fee burn through EIP-1559 but user composability and application support for each game seems like a tall task --> everything out the window when there are composable, EVM ZKR (zero-knowledge rollups) but that with seamless integration across all DeFi applcications and bridge implementation between various rollups and liquidity all working properly in a post merge, post shard world for a seamless gaming experience on the backend seems years to half a decade away 
+
+SOL - Aurory, Star Atlas, Cryowar, 
+
+best suited in the short to mid term (potentially long-term if specific games take off) with high TPS and easy backend implementation with Serum and Raydium that can effortlessly implement LPs of various game currencies and facilitate NFT sales, accelerators, launchpads etc. basically all ready today --> Aurory and other developing games launching within a year already plan to use them on the backend for in-game NFT transfers 
+
+Harmony - DeFi Kingdom 
+
+
 
 \-Playbook/User retention established with Axie and Ronin along with their building of DEX, clear demand and the need to facilitate the transactions and capture value is present 
 
@@ -32,30 +64,6 @@ Harmony --> DeFi Kingdom
 
 
 
-User retention is a metric that is meticulously tracked in every company, ranging from one person startup to fortune 500 company.  Crypto is no different, especially in an industry that has merciless yield farmers and incentive programs released from every plausible corner.  This chart, originally tweeted by Axie Co-Founder [Jihoz](https://twitter.com/Jihoz_Axie), shows the overlap of 30 day and 90 day user retention numbers.  
-
-![Axie Infinity 30d and 90d retention ](/assets/axie_retention.jpeg "Axie Retention Numbers ")
-
-As pointed out in an excellent [thread](https://twitter.com/amytongwu/status/1441968454920118274/photo/1) by [Amy Wu](https://twitter.com/amytongwu), these user retention numbers (upwards of 50%+) are out of this world.  As Amy points out in the above linked thread, the percent of users still playing Axie after 30 and 90 days resembles traditional employment retention metrics.  There are numerous takeaways and potential down-stream effects that this enables, all leading to further crypto adoption and user stickiness that leads to sustained asset growth.  Future implementation of crypto gaming at scale, along with core DeFi infastructure supporting the exchange, lending, and borrowing of said in-game NFT assets and currencies can sustain massive growth and limit 80%+ drawdowns that we've seen in past market cycles.  
 
 
-
-### DeFi + NFTs = Supercycle 
-
-Ability to have constant influx of users, capital velocity cycled through underlying DeFi protocols that facilitate the swap, lend, borrow, fractionalization of in-game NFTs reduces future drawdowns as there are more opportunities for yield,  speculation, things to do for 10s of millions of users
-
-Comparable Axie metrics where users and activity are still growing at insane rates, even through temporary days to weeks long drawbacks in broad markets 
-
-Hits all the Chris Dixon mental models including things as a toy, gamers leading the way, what people do @ nights and on weekends all integrated into one concept 
-
-### Protocol Benefit & Future Games 
-
-ETH - Axie deriviate, Gods Unchained, Immutable X 
-
-worst positioned short to mid term, long term best with fee burn through EIP-1559 but user composability and application support for each game seems like a tall task --> everything out the window when there are composable, EVM ZKR (zero-knowledge rollups) but that with seamless integration across all DeFi applcications and bridge implementation between various rollups and liquidity all working properly in a post merge, post shard world for a seamless gaming experience on the backend seems years to half a decade away 
-
-SOL - Aurory, Star Atlas, Cryowar, 
-
-best suited in the short to mid term (potentially long-term if specific games take off) with high TPS and easy backend implementation with Serum and Raydium that can effortlessly implement LPs of various game currencies and facilitate NFT sales, accelerators, launchpads etc. basically all ready today --> Aurory and other developing games launching within a year already plan to use them on the backend for in-game NFT transfers 
-
-Harmony - DeFi Kingdom
+Finish post by EOD 11/12
