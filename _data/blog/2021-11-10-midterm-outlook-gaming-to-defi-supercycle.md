@@ -42,7 +42,9 @@ As pointed out in an excellent [thread](https://twitter.com/amytongwu/status/144
 
 ### DeFi + NFTs = Supercycle 
 
-Crypto gaming has been specula
+Ability to have constant influx of users, capital velocity cycled through underlying DeFi protocols that facilitate the swap, lend, borrow, fractionalization of in-game NFTs reduces future drawdowns as there are more opportunities for yield,  speculation, things to do for 10s of millions of users
+
+Comparable Axie metrics where users and activity are still growing at insane rates, even through temporary days to weeks long drawbacks in broad markets 
 
 Hits all the Chris Dixon mental models including things as a toy, gamers leading the way, what people do @ nights and on weekends all integrated into one concept 
 
