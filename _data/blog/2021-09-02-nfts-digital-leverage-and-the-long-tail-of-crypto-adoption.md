@@ -36,8 +36,6 @@ SCALABILITY through traditional internet distribution models and reach that NFTs
 
 Crypto protocol TVL/Employee ratio --> digital leverage here as well tens of millions to hundreds of millions of value per employee --> Banteg tweet of Curve 13.5B / 6 = 2.26B per employee
 
-
-
 A good example of the new shift is the recent crypto punk purchase that Visa made. Think of press coverage of Visa buying an NFT as another form of digital leverage.  The scale and distribution that entailed isn't possible in the physical/non-crypto world.  Operate on a global, 24/7 level where people would rather flex a profile picture worth 500k than buy a new house partly because one's addressable market is n of family and friends and the other is n of the user base of platforms where it is displayed.  Digital Leverage creates unparalleled operating scale where digital items \~should\~ be worth more than physical items because of their networks and drastically reduced marginal cost to add n items or assets.   
 
 Scalability in distribution and audience along with utility as the programmable nature of digital items allows them orders of magnitude more flexibility and composability.  
@@ -69,10 +67,11 @@ THINGS TO WATCH IN THIS SPACE
   * recent Colossus episode --> Axie revenue JAN (100k), JULY (196 million!!!), AUGUST (370 million !!!) -- network effects, scalability, escape velocity, any cliche here is unmatched in that level of growth that reinforces how rare the network effects and scalability are that crypto/blockchains enable --> marginal cost to software/company are nothing for every additional 100M in revenue, TVL, growth, etc 
   * INSERT 30D v. 90D retention numbers tweeted recently here --> in fucking sane 
 * Star Atlas (Solana)
+* Aurory (Solana)
 * DeFi Land (Solana)
-* Immutable X (ETH)
+* Immutable X (ETH, launch partner)
 * Ninja (Solana)
-*
+* DFK (DeFi Kingdom, Harmony One)
 
 List the market and numbers, connect to Axie Infinity and other blockchain/crypto games  (Star Atlas) and how blockchains, NFTs, tokens will completely transform the future of gaming as people can earn, or not lose! money while having actual ownership and composability between items in separate gaming worlds 
 
@@ -108,7 +107,7 @@ As writing this, opened an email from Star Atlas (Solana blockchain game) with s
 * Verifiable Representation of Accomplishments 
 
   * earliest experimentation developing here as on-chain protocol involvement, tasks, accomplishments, etc. could be represented as verifiable NFTs
-* Programmable Money ???
+* Unique representations of \~anything\~ digital, or representing real-world 
 * Ownership and participation in Web 3.0 
 
   * NFTs as the core economic element of the next-generation digital economy 
@@ -121,4 +120,4 @@ Ultimately, the bull case for NFTs and crypto adoption continually reverts back 
 
 Applicable to current markets--> SOL/ETH, SOL as the gaming and low value, high throughput settlement layer while ETH settles mid-high value transfers and certain DeFi protocols.  Symbiotic relationship between the two moving forward? 
 
-Post will be finalized EoD 9/16
+Post will be finalized EOM November
