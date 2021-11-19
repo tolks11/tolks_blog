@@ -7,7 +7,7 @@ metaDescription: >-
   An exploration of the factors and potential outcome where crypto-gaming
   reaches exit velocity while DeFi protocols are the underlying/backend
   facilitating the value transfer occurring within the games
-thumbnail: /assets/up_only.png
+thumbnail: /assets/super_cycle.png
 ---
 \-Exploration of gaming feeding DeFi as DeFi (dexes/lending protocols/NFT L&B protocols) is the backend that facilitates the transfer of the assets inside the games that reach exit velocity -- downstream effects captured of massive DAU (as games are good at capturing compared to protocols) exchanging game assets; leads to consistent growth and underlying sustained application/protocol growth 
 
