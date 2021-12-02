@@ -57,4 +57,4 @@ Harmony --> DeFi Kingdom
 
 \-Figure out user retention/growth during recent crypto drawdowns correlated with Axie --> i.e. was there a dip in users, growth, activity when crypto markets saw quick retraces --> admittedly a sample of 1, but unchartered territory here while the only evidence we do have is Axie growth is sticky, that of normal user retention of \~actual jobs\~ 
 
-Post finished EOM November
+Post finished EOM December
