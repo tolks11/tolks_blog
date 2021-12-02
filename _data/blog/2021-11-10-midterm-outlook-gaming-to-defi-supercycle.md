@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: '/supercycle '
+path: /supercycle
 date: 2021-11-10T02:58:41.609Z
 title: 'Midterm to Longterm: Gaming + DeFi = Supercycle '
 metaDescription: >-
